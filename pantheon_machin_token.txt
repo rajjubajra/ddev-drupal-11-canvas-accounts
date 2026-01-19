@@ -1,0 +1,5 @@
+ZnjVqA0j5-uDo48L0ZN0BrD9BLQPwIH7g4N-4blXpKuVe
+
+
+
+terminus auth:login --machine-token=ZnjVqA0j5-uDo48L0ZN0BrD9BLQPwIH7g4N-4blXpKuVe
