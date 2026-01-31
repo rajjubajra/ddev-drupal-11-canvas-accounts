@@ -73,7 +73,9 @@ ddev import-db --src=db.sql
 
 #This works regardless of filename:
 
+```powershell
 gzip -dc db.sql | ddev import-db
+```
 
 
 ---
