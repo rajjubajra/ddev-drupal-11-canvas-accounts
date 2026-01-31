@@ -70,6 +70,12 @@ Assuming you have a `db.sql` file in the repository root:
 ddev import-db --src=db.sql
 ```
 
+
+#This works regardless of filename:
+
+gzip -dc db.sql | ddev import-db
+
+
 ---
 
 ## 6. Install Project Dependencies
